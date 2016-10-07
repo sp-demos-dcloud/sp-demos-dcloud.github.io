@@ -1,7 +1,3 @@
-# sp-demos-dcloud.github.io
-Service Provider dCloud Demos Information
-
-
 **Overview of Overview**
 
 The goal with this document is to explain differences between demos that may seem very similar and to help you navigate to the one best matching your needs.
